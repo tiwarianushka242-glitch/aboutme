@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Anushka Tiwari
-🔭 I’m currently working on data analysis and AI projects<br>👯 I’m looking for internship opportunities<br>🌱 I’m currently learning data analytics & AI tools<br>💬 My skills : SQL • Python • Power BI • Prompt Engineering • AI Analytics 
+🔭 I’m currently intern @OasisInfobyte and @ProdigyInfoTech<br>👯 I’m working on real world AI projects<br>🌱 I’m currently learning data analytics & AI tools<br>💬 My skills : SQL • Python • Power BI • Prompt Engineering • AI Analytics 
 
 
 ## 🌐 Socials:
